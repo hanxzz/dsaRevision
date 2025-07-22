@@ -4,6 +4,8 @@
     "iostream": "cpp",
     "xstring": "cpp",
     "vector": "cpp",
-    "checkifsortedarrayisrotated": "cpp"
+    "checkifsortedarrayisrotated": "cpp",
+    "initializer_list": "cpp",
+    "xutility": "cpp"
   }
 }
