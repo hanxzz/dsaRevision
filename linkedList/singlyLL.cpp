@@ -50,6 +50,6 @@ int main(){
     insertAtTail(tail, 12);
     print(head);
 
-    insertAtTail(tail, 15);
+    insertAtTail(tail, 15   );
     print(head);
 }
